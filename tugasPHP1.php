@@ -11,7 +11,7 @@
 			echo '<p style="color:brown; font-family:"Helvetica"">'."Mati satu tinggal $i".'</p>';
 		}
 		else{
-			echo '<p style="color:yellow; font-family:"Helvetica"">'."Mati satu tinggal $i".'</p>';
+			echo '<p style="color:orange; font-family:"Helvetica"">'."Mati satu tinggal $i".'</p>';
 		}
 	}
 	?>
